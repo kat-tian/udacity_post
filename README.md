@@ -1,5 +1,6 @@
 ## Udacity Post
-Find the "post" in the Airbnb.ipynb file
+Find the "post" in the Airbnb.ipynb file.
+You can find the original data on Kaggle: https://www.kaggle.com/airbnb/seattle/data#calendar.csv
 # When should you book Airbnbs in Seattle? 
 A data-driven approach using Airbnb's 2016-2017 Seattle data.
 
