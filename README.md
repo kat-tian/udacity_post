@@ -12,3 +12,12 @@ Here are the three main questions we'll be exploring:
 1. *Are there more availabilities in some months relative to others?*
 2. *What month is it cheapest to book in Seattle?*
 3. *What day of the week do you get the best deal?*
+
+## Conclusion 
+
+In this article, we looked at 2016/17 Seattle Airbnb data. We cleaned the data and showed that:
+
+
+> 1. There are fewer availiable houses in Janurary and July.
+> 2. The summer months are much more expensive to book relative to wnter months.
+> 3. Booknig near the weekend is much more expensive than bookng in the middle of the week.  
