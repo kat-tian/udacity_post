@@ -1,5 +1,7 @@
 ## Udacity Post
-Find the "post" in the Airbnb.ipynb file.
+Find the python code in the Airbnb.ipynb file.
+Find the post via this link: https://medium.com/when-should-you-book-airbnbs-in-seattle/when-should-you-book-airbnbs-in-seattle-7a1456a87393?sk=b6996adcdb08c62539c7d393af6ff8b6
+
 You can find the original data on Kaggle: https://www.kaggle.com/airbnb/seattle/data#calendar.csv
 # When should you book Airbnbs in Seattle? 
 A data-driven approach using Airbnb's 2016-2017 Seattle data.
